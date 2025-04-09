@@ -71,3 +71,22 @@ Run `pytest tests/` to execute unit tests.
 ## Version
 
 1.1.0 - Added feedback export to .txt feature.
+
+# Changelog
+
+## v1.2.0 (YYYY-MM-DD)
+
+-   Added `search_feedback.py` to search feedback by student name.
+-   Added `count_feedback.py` to count total feedback entries.
+
+## v1.1.0 (YYYY-MM-DD)
+
+-   Added `report_generator.py` to export feedback data to a .txt file.
+
+## v1.0.1 (YYYY-MM-DD)
+
+-   Added `feedback_summary.py` to summarize feedback.
+
+## v1.0.0 (YYYY-MM-DD)
+
+-   Initial release with basic feedback entry and score calculation features.
