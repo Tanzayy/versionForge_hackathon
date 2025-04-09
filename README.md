@@ -45,4 +45,4 @@ Run `pytest tests/` to execute unit tests.
 
 ## Version
 
-1.0.1 - Added feedback summarization feature.
+1.0.1 - Added feedback summarization feature.  
