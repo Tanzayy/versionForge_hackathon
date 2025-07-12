@@ -1,5 +1,5 @@
 # versionForge_hackathon
-first VCS Hackathon
+First VCS Hackathon
 # Edutrack Feedback Manager
 
 This project is a feedback management tool developed for Edutrack.
